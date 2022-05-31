@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Sroy-portfolio/static/css/main.b18e3cc1.css",
+    "main.js": "/Sroy-portfolio/static/js/main.a89c5785.js",
+    "static/media/img1 .jpg": "/Sroy-portfolio/static/media/img1 .2a68fe9ae025984955bf.jpg",
+    "static/media/img2.jpg": "/Sroy-portfolio/static/media/img2.019a3b1cb411b8fa9699.jpg",
+    "static/media/project2.png": "/Sroy-portfolio/static/media/project2.d257a4a8a0c74dd66eae.png",
+    "static/media/Portfolio01.png": "/Sroy-portfolio/static/media/Portfolio01.67a023a037de3aa9a2cd.png",
+    "static/media/about04.png": "/Sroy-portfolio/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/Sroy-portfolio/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/Sroy-portfolio/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgIMG.png": "/Sroy-portfolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Sroy-portfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/profile.png": "/Sroy-portfolio/static/media/profile.ee489764521abe34026b.png",
+    "static/media/about03.png": "/Sroy-portfolio/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/spotify.png": "/Sroy-portfolio/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/img3.jpg": "/Sroy-portfolio/static/media/img3.3223fddc035a1922d3a7.jpg",
+    "static/media/nb.png": "/Sroy-portfolio/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/asus.png": "/Sroy-portfolio/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/adidas.png": "/Sroy-portfolio/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/bolt.png": "/Sroy-portfolio/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/Sroy-portfolio/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Sroy-portfolio/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Sroy-portfolio/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/Sroy-portfolio/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/Sroy-portfolio/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/Sroy-portfolio/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/Sroy-portfolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/Sroy-portfolio/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/Sroy-portfolio/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Sroy-portfolio/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Sroy-portfolio/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/Sroy-portfolio/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/Sroy-portfolio/index.html",
+    "static/media/circle.svg": "/Sroy-portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.b18e3cc1.css.map": "/Sroy-portfolio/static/css/main.b18e3cc1.css.map",
+    "main.a89c5785.js.map": "/Sroy-portfolio/static/js/main.a89c5785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18e3cc1.css",
+    "static/js/main.a89c5785.js"
+  ]
+}
